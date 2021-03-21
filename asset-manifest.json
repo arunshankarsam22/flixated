@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flixated/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/flixated/static/js/main.a30772f5.chunk.js",
+    "main.js.map": "/flixated/static/js/main.a30772f5.chunk.js.map",
+    "runtime-main.js": "/flixated/static/js/runtime-main.268b8613.js",
+    "runtime-main.js.map": "/flixated/static/js/runtime-main.268b8613.js.map",
+    "static/js/2.ca092020.chunk.js": "/flixated/static/js/2.ca092020.chunk.js",
+    "static/js/2.ca092020.chunk.js.map": "/flixated/static/js/2.ca092020.chunk.js.map",
+    "static/js/3.ef812df5.chunk.js": "/flixated/static/js/3.ef812df5.chunk.js",
+    "static/js/3.ef812df5.chunk.js.map": "/flixated/static/js/3.ef812df5.chunk.js.map",
+    "index.html": "/flixated/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/flixated/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ca092020.chunk.js.LICENSE.txt": "/flixated/static/js/2.ca092020.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/flixated/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.268b8613.js",
+    "static/js/2.ca092020.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a30772f5.chunk.js"
+  ]
+}
